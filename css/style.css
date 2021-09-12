@@ -7668,7 +7668,7 @@ footer small {
             transform: scale(0.6);
   }
   footer small {
-    padding-left: 27vw;
+    padding-left: 27vw !important;
     margin-top: -20px;
     cursor: pointer;
     color: #a0a0a0;
@@ -8185,7 +8185,7 @@ footer small {
             transform: scale(0.6);
   }
   footer small {
-    padding-left: 35vw !important;
+    padding-left: 27vw !important;
     margin-top: -20px;
     position: relative;
     top: -10px;
@@ -8704,7 +8704,7 @@ footer small {
             transform: scale(0.6);
   }
   footer small {
-    padding-left: 27vw;
+    padding-left: 27vw !important;
     margin-top: -20px;
     position: relative;
     top: -10px;
