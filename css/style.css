@@ -9100,7 +9100,7 @@ footer small {
     position: absolute;
     top: 20px;
     left: 10px;
-    width: 50px;
+    width: 40px;
   }
   .why-us .right-content .trust h3 {
     position: absolute;
@@ -9138,7 +9138,7 @@ footer small {
     font-weight: normal;
   }
   footer .flexed .navigate ul {
-    padding-left: 55px;
+    padding-left: 25px;
   }
   footer .flexed .navigate ul li {
     list-style-type: none;
@@ -9224,7 +9224,7 @@ footer small {
             transform: scale(0.6);
   }
   footer small {
-    padding-left: 27vw;
+    padding-left: 20vw;
     margin-top: -20px;
     position: relative;
     top: -10px;
