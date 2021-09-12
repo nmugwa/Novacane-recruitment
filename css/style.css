@@ -8188,6 +8188,7 @@ footer small {
     padding-left: 27vw !important;
     margin-top: -20px;
     position: relative;
+    left: 27vw !important;
     top: -10px;
     cursor: pointer;
     color: #a0a0a0;
