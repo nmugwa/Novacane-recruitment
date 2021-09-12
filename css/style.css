@@ -7180,7 +7180,7 @@ footer small {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1200px) and (max-device-width: 1344px){
   header a.logo {
     position: relative;
     left: -100px;
@@ -7207,7 +7207,7 @@ footer small {
             transform: scale(1);
   }
   .hero .left-side {
-    margin: 10px 0 0 70px;
+    margin: 10px 0 0 70px !important;
   }
   .hero .left-side .headline {
     white-space: wrap;
@@ -7730,7 +7730,7 @@ footer small {
     right: 25%;
   }
   .hero .left-side {
-    margin: 100px 0 0 150px !important;
+    margin: 100px 0 0 250px !important;
   }
   .hero .left-side .headline {
     white-space: wrap;
