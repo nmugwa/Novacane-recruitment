@@ -8713,7 +8713,7 @@ footer small {
   }
 }
 
-@media (min-device-width: 1439.98px) and (-webkit-min-device-pixel-ratio: 2) and (-webkit-min-device-pixel-ratio: 2), (min-device-width: 1439.98px) and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi) {
+@media (min-width: 1439.98px) {  
   header {
     display: -webkit-box;
     display: -ms-flexbox;
