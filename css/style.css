@@ -7180,7 +7180,7 @@ footer small {
   }
 }
 
-@media (min-width: 1200px) and (max-device-width: 1344px){
+@media (min-width: 1200px) {
   header a.logo {
     position: relative;
     left: -100px;
@@ -7675,7 +7675,7 @@ footer small {
   }
 }
 
-@media (min-width: 1344.98px) and (max-device-width: 1399px) {
+@media (min-width: 1344.98px)  {
   header {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -8194,7 +8194,7 @@ footer small {
   }
 }
 
-@media (min-device-width: 1399.98px) and (max-device-width: 1439px){
+@media (min-device-width: 1399.98px) {
   header {
     display: -webkit-box;
     display: -ms-flexbox;
