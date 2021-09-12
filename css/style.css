@@ -7675,7 +7675,7 @@ footer small {
   }
 }
 
-@media (min-width: 1344.98px) {
+@media (min-width: 1344.98px) and (max-device-width: 1399px) {
   header {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -8194,7 +8194,7 @@ footer small {
   }
 }
 
-@media (min-device-width: 1399.98px) {
+@media (min-device-width: 1399.98px) and (max-device-width: 1439px){
   header {
     display: -webkit-box;
     display: -ms-flexbox;
