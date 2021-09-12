@@ -8816,7 +8816,7 @@ footer small {
   }
   .values {
     position: relative;
-    top: 120px;
+    top: 120px !important;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
