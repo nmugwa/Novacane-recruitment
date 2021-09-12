@@ -9100,7 +9100,7 @@ footer small {
     position: absolute;
     top: 20px;
     left: 10px;
-    width: 40px;
+    width: 40px !important;
   }
   .why-us .right-content .trust h3 {
     position: absolute;
@@ -9224,7 +9224,7 @@ footer small {
             transform: scale(0.6);
   }
   footer small {
-    padding-left: 20vw;
+    padding-left: 20vw !important;
     margin-top: -20px;
     position: relative;
     top: -10px;
